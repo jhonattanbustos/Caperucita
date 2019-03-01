@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 introduccion
 
 Primeros eventos del cuento
 Segunos eventos del cuento
 Terceros eventos del cuento
+=======
+Cuento Version alternativa
+>>>>>>> versionalternativa
